@@ -5,4 +5,5 @@
 <li>project 02 bmi calculator </li>
 <li>project 03 digital calculator </li>
 <li>project 04 randam number generator </li>
+<li>project 05 Tip Calculator </li>
 
